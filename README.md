@@ -8,8 +8,7 @@
   </p>
   <p>
     After a while, this folder becomes a mess of all file types that I may or may not need.
-    Although I am using Raycast (Apple Spotlight on steroid), scraping through such a mess for files,
-    especially new ones is hugely time-consuming.
+    It's a pain point for me as I use my laptop for all things school, work and personal needs related.
   </p>
 
   <h2>Solution requirements</h2>
